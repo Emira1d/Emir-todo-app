@@ -1,0 +1,23 @@
+.add{
+    width: 70%;
+    height: 30px;
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.761);
+    backdrop-filter: blur(10px);
+    font-size: 20px;
+    border-color: rgba(0, 0, 0, 0.766);
+    margin-top: 40px;
+}
+.addForm{
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.btnAD{
+    margin-top: 3px;
+    padding: 2px;
+    border-radius: 20%;
+    font-size: 20px;
+    background: rgba(255, 255, 255, 0.761);
+}
